@@ -1,0 +1,625 @@
+"player_id","player_name","team_id","team_name","shots_attempted","shots_made","total_points","total_3_points","efg","pps"
+"101150","Lou Williams","1610612737","Atlanta Hawks",216,84,192,72,0.444,0.89
+"1627739","Kris Dunn","1610612737","Atlanta Hawks",12,1,2,0,0.083,0.17
+"1628381","John Collins","1610612737","Atlanta Hawks",771,429,941,249,0.610,1.22
+"1628981","Bruno Fernando","1610612737","Atlanta Hawks",44,18,36,0,0.409,0.82
+"1628989","Kevin Huerter","1610612737","Atlanta Hawks",731,316,772,420,0.528,1.06
+"1629027","Trae Young","1610612737","Atlanta Hawks",1112,487,1110,408,0.499,1.00
+"1629164","Brandon Goodwin","1610612737","Atlanta Hawks",223,84,200,96,0.448,0.90
+"1629629","Cam Reddish","1610612737","Atlanta Hawks",263,96,225,99,0.428,0.86
+"1629631","De'Andre Hunter","1610612737","Atlanta Hawks",248,120,271,93,0.546,1.09
+"1630168","Onyeka Okongwu","1610612737","Atlanta Hawks",149,96,192,0,0.644,1.29
+"1630219","Skylar Mays","1610612737","Atlanta Hawks",98,44,102,42,0.520,1.04
+"1630233","Nathan Knight","1610612737","Atlanta Hawks",100,37,80,18,0.400,0.80
+"200765","Rajon Rondo","1610612737","Atlanta Hawks",110,44,105,51,0.477,0.95
+"201568","Danilo Gallinari","1610612737","Atlanta Hawks",475,206,515,309,0.542,1.08
+"203503","Tony Snell","1610612737","Atlanta Hawks",171,88,238,186,0.696,1.39
+"203524","Solomon Hill","1610612737","Atlanta Hawks",298,107,282,204,0.473,0.95
+"203991","Clint Capela","1610612737","Atlanta Hawks",695,413,826,0,0.594,1.19
+"203992","Bogdan Bogdanovic","1610612737","Atlanta Hawks",565,267,680,438,0.602,1.20
+"1627759","Jaylen Brown","1610612738","Boston Celtics",1111,538,1238,486,0.557,1.11
+"1628369","Jayson Tatum","1610612738","Boston Celtics",1318,605,1397,561,0.530,1.06
+"1628400","Semi Ojeleye","1610612738","Boston Celtics",221,89,236,174,0.534,1.07
+"1628436","Luke Kornet","1610612738","Boston Celtics",74,35,79,27,0.534,1.07
+"1628464","Daniel Theis","1610612738","Boston Celtics",288,159,351,99,0.609,1.22
+"1629021","Moritz Wagner","1610612738","Boston Celtics",14,4,10,6,0.357,0.71
+"1629035","Carsen Edwards","1610612738","Boston Celtics",111,47,112,54,0.505,1.01
+"1629057","Robert Williams III","1610612738","Boston Celtics",258,186,372,0,0.721,1.44
+"1629605","Tacko Fall","1610612738","Boston Celtics",29,21,42,0,0.724,1.45
+"1629641","Romeo Langford","1610612738","Boston Celtics",59,21,47,15,0.398,0.80
+"1629682","Tremont Waters","1610612738","Boston Celtics",84,34,83,45,0.494,0.99
+"1629684","Grant Williams","1610612738","Boston Celtics",247,108,264,144,0.534,1.07
+"1629750","Javonte Green","1610612738","Boston Celtics",71,39,85,21,0.599,1.20
+"1630174","Aaron Nesmith","1610612738","Boston Celtics",178,78,196,120,0.551,1.10
+"1630202","Payton Pritchard","1610612738","Boston Celtics",418,184,470,306,0.562,1.12
+"201952","Jeff Teague","1610612738","Boston Celtics",188,78,182,78,0.484,0.97
+"202684","Tristan Thompson","1610612738","Boston Celtics",326,169,338,0,0.518,1.04
+"202689","Kemba Walker","1610612738","Boston Celtics",676,284,695,381,0.514,1.03
+"203095","Evan Fournier","1610612738","Boston Celtics",172,77,199,135,0.578,1.16
+"203935","Marcus Smart","1610612738","Boston Celtics",510,203,499,279,0.489,0.98
+"203953","Jabari Parker","1610612738","Boston Celtics",48,26,54,6,0.563,1.13
+"1626188","Quinn Cook","1610612739","Cleveland Cavaliers",42,17,40,18,0.476,0.95
+"1626204","Larry Nance Jr.","1610612739","Cleveland Cavaliers",272,128,297,123,0.546,1.09
+"1626224","Cedi Osman","1610612739","Cleveland Cavaliers",586,219,537,297,0.458,0.92
+"1627748","Thon Maker","1610612739","Cleveland Cavaliers",18,10,20,0,0.556,1.11
+"1627752","Taurean Prince","1610612739","Cleveland Cavaliers",253,101,251,147,0.496,0.99
+"1627812","Yogi Ferrell","1610612739","Cleveland Cavaliers",21,8,19,9,0.452,0.90
+"1628386","Jarrett Allen","1610612739","Cleveland Cavaliers",417,254,514,18,0.616,1.23
+"1628392","Isaiah Hartenstein","1610612739","Cleveland Cavaliers",91,53,108,6,0.593,1.19
+"1628422","Damyean Dotson","1610612739","Cleveland Cavaliers",293,119,284,138,0.485,0.97
+"1629012","Collin Sexton","1610612739","Cleveland Cavaliers",1105,525,1147,291,0.519,1.04
+"1629636","Darius Garland","1610612739","Cleveland Cavaliers",802,362,829,315,0.517,1.03
+"1629662","Mfiondu Kabengele","1610612739","Cleveland Cavaliers",57,24,57,27,0.500,1.00
+"1629685","Dylan Windler","1610612739","Cleveland Cavaliers",130,57,140,78,0.538,1.08
+"1629716","Marques Bolden","1610612739","Cleveland Cavaliers",3,1,2,0,0.333,0.67
+"1629725","Jeremiah Martin","1610612739","Cleveland Cavaliers",33,9,21,9,0.318,0.64
+"1629731","Dean Wade","1610612739","Cleveland Cavaliers",311,134,346,234,0.556,1.11
+"1630171","Isaac Okoro","1610612739","Cleveland Cavaliers",559,235,532,186,0.476,0.95
+"1630205","Lamar Stevens","1610612739","Cleveland Cavaliers",136,62,128,12,0.471,0.94
+"1630271","Brodric Thomas","1610612739","Cleveland Cavaliers",101,37,89,45,0.441,0.88
+"201567","Kevin Love","1610612739","Cleveland Cavaliers",252,103,263,171,0.522,1.04
+"201580","JaVale McGee","1610612739","Cleveland Cavaliers",215,112,229,15,0.533,1.07
+"203083","Andre Drummond","1610612739","Cleveland Cavaliers",380,180,360,0,0.474,0.95
+"203521","Matthew Dellavedova","1610612739","Cleveland Cavaliers",56,14,32,12,0.286,0.57
+"203957","Dante Exum","1610612739","Cleveland Cavaliers",26,10,22,6,0.423,0.85
+"2760","Anderson Varejao","1610612739","Cleveland Cavaliers",16,4,8,0,0.250,0.50
+"1626195","Willy Hernangomez","1610612740","New Orleans Pelicans",268,151,303,3,0.565,1.13
+"1627742","Brandon Ingram","1610612740","New Orleans Pelicans",1101,513,1170,432,0.531,1.06
+"1628366","Lonzo Ball","1610612740","New Orleans Pelicans",700,290,752,516,0.537,1.07
+"1628404","Josh Hart","1610612740","New Orleans Pelicans",344,151,365,189,0.531,1.06
+"1628411","Wes Iwundu","1610612740","New Orleans Pelicans",50,17,36,6,0.360,0.72
+"1628414","Sindarius Thornwell","1610612740","New Orleans Pelicans",21,7,17,9,0.405,0.81
+"1629117","Wenyen Gabriel","1610612740","New Orleans Pelicans",60,24,61,39,0.508,1.02
+"1629627","Zion Williamson","1610612740","New Orleans Pelicans",1037,634,1278,30,0.616,1.23
+"1629637","Jaxson Hayes","1610612740","New Orleans Pelicans",280,175,356,18,0.636,1.27
+"1629638","Nickeil Alexander-Walker","1610612740","New Orleans Pelicans",458,192,460,228,0.502,1.00
+"1629712","Didi Louzada","1610612740","New Orleans Pelicans",13,3,8,6,0.308,0.62
+"1629740","Nicolo Melli","1610612740","New Orleans Pelicans",59,15,37,21,0.314,0.63
+"1630184","Kira Lewis Jr.","1610612740","New Orleans Pelicans",337,130,298,114,0.442,0.88
+"1630230","Naji Marshall","1610612740","New Orleans Pelicans",209,82,193,87,0.462,0.92
+"1630266","Will Magnay","1610612740","New Orleans Pelicans",1,0,0,0,0.000,0.00
+"200755","JJ Redick","1610612740","New Orleans Pelicans",214,87,225,153,0.526,1.05
+"201949","James Johnson","1610612740","New Orleans Pelicans",182,79,174,48,0.478,0.96
+"202339","Eric Bledsoe","1610612740","New Orleans Pelicans",730,307,735,363,0.503,1.01
+"202738","Isaiah Thomas","1610612740","New Orleans Pelicans",27,9,21,9,0.389,0.78
+"203263","James Nunnally","1610612740","New Orleans Pelicans",13,5,14,12,0.538,1.08
+"203500","Steven Adams","1610612740","New Orleans Pelicans",308,189,378,0,0.614,1.23
+"1626245","Cristiano Felicio","1610612741","Chicago Bulls",13,7,14,0,0.538,1.08
+"1627756","Denzel Valentine","1610612741","Chicago Bulls",416,155,390,240,0.469,0.94
+"1627853","Ryan Arcidiacono","1610612741","Chicago Bulls",117,49,123,75,0.526,1.05
+"1628374","Lauri Markkanen","1610612741","Chicago Bulls",521,250,619,357,0.594,1.19
+"1628436","Luke Kornet","1610612741","Chicago Bulls",27,9,24,18,0.444,0.89
+"1628464","Daniel Theis","1610612741","Chicago Bulls",178,93,202,48,0.567,1.13
+"1628972","Troy Brown Jr.","1610612741","Chicago Bulls",55,29,66,24,0.600,1.20
+"1628976","Wendell Carter Jr.","1610612741","Chicago Bulls",252,129,266,24,0.528,1.06
+"1628990","Chandler Hutchison","1610612741","Chicago Bulls",18,5,11,3,0.306,0.61
+"1629632","Coby White","1610612741","Chicago Bulls",902,375,913,489,0.506,1.01
+"1629653","Devon Dotson","1610612741","Chicago Bulls",21,11,23,3,0.548,1.10
+"1629655","Daniel Gafford","1610612741","Chicago Bulls",87,60,120,0,0.690,1.38
+"1629690","Adam Mokoka","1610612741","Chicago Bulls",19,7,15,3,0.395,0.79
+"1629750","Javonte Green","1610612741","Chicago Bulls",31,14,31,9,0.500,1.00
+"1630172","Patrick Williams","1610612741","Chicago Bulls",528,255,564,162,0.534,1.07
+"201152","Thaddeus Young","1610612741","Chicago Bulls",662,370,752,36,0.568,1.14
+"202066","Garrett Temple","1610612741","Chicago Bulls",381,158,383,201,0.503,1.01
+"202329","Al-Farouq Aminu","1610612741","Chicago Bulls",10,2,5,3,0.250,0.50
+"202696","Nikola Vucevic","1610612741","Chicago Bulls",488,230,519,177,0.532,1.06
+"203107","Tomas Satoransky","1610612741","Chicago Bulls",329,169,380,126,0.578,1.16
+"203490","Otto Porter Jr.","1610612741","Chicago Bulls",202,89,216,114,0.535,1.07
+"203897","Zach LaVine","1610612741","Chicago Bulls",1123,569,1338,600,0.596,1.19
+"1626161","Willie Cauley-Stein","1610612742","Dallas Mavericks",182,115,231,3,0.635,1.27
+"1626196","Josh Richardson","1610612742","Dallas Mavericks",618,264,616,264,0.498,1.00
+"1626246","Boban Marjanovic","1610612742","Dallas Mavericks",122,62,125,3,0.512,1.02
+"1627827","Dorian Finney-Smith","1610612742","Dallas Mavericks",466,220,559,357,0.600,1.20
+"1628411","Wes Iwundu","1610612742","Dallas Mavericks",52,17,37,9,0.356,0.71
+"1628467","Maxi Kleber","1610612742","Dallas Mavericks",275,116,319,261,0.580,1.16
+"1628973","Jalen Brunson","1610612742","Dallas Mavericks",627,328,737,243,0.588,1.18
+"1629029","Luka Doncic","1610612742","Dallas Mavericks",1351,647,1486,576,0.550,1.10
+"1629740","Nicolo Melli","1610612742","Dallas Mavericks",82,31,78,48,0.476,0.95
+"1630179","Tyrell Terry","1610612742","Dallas Mavericks",16,5,10,0,0.313,0.63
+"1630182","Josh Green","1610612742","Dallas Mavericks",93,42,88,12,0.473,0.95
+"1630189","Tyler Bey","1610612742","Dallas Mavericks",22,7,15,3,0.341,0.68
+"1630207","Nate Hinton","1610612742","Dallas Mavericks",42,15,34,12,0.405,0.81
+"200755","JJ Redick","1610612742","Dallas Mavericks",53,19,53,45,0.500,1.00
+"201949","James Johnson","1610612742","Dallas Mavericks",145,67,149,45,0.514,1.03
+"203501","Tim Hardaway Jr.","1610612742","Dallas Mavericks",911,407,1021,621,0.560,1.12
+"203504","Trey Burke","1610612742","Dallas Mavericks",353,151,360,174,0.510,1.02
+"203939","Dwight Powell","1610612742","Dallas Mavericks",194,120,245,15,0.631,1.26
+"204001","Kristaps Porzingis","1610612742","Dallas Mavericks",683,325,747,291,0.547,1.09
+"1627750","Jamal Murray","1610612743","Denver Nuggets",792,378,885,387,0.559,1.12
+"1627885","Shaquille Harrison","1610612743","Denver Nuggets",58,20,43,9,0.371,0.74
+"1628392","Isaiah Hartenstein","1610612743","Denver Nuggets",80,41,82,0,0.513,1.03
+"1628408","P.J. Dozier","1610612743","Denver Nuggets",355,148,343,141,0.483,0.97
+"1628420","Monte Morris","1610612743","Denver Nuggets",387,186,423,153,0.547,1.09
+"1628427","Vlatko Cancar","1610612743","Denver Nuggets",72,33,75,27,0.521,1.04
+"1629008","Michael Porter Jr.","1610612743","Denver Nuggets",817,443,1056,510,0.646,1.29
+"1629626","Bol Bol","1610612743","Denver Nuggets",58,25,59,27,0.509,1.02
+"1630181","R.J. Hampton","1610612743","Denver Nuggets",60,25,55,15,0.458,0.92
+"1630192","Zeke Nnaji","1610612743","Denver Nuggets",104,50,124,72,0.596,1.19
+"1630210","Markus Howard","1610612743","Denver Nuggets",106,40,98,54,0.462,0.92
+"1630267","Facundo Campazzo","1610612743","Denver Nuggets",315,120,316,228,0.502,1.00
+"200794","Paul Millsap","1610612743","Denver Nuggets",401,191,431,147,0.537,1.07
+"201580","JaVale McGee","1610612743","Denver Nuggets",67,32,64,0,0.478,0.96
+"203085","Austin Rivers","1610612743","Denver Nuggets",110,46,119,81,0.541,1.08
+"203115","Will Barton","1610612743","Denver Nuggets",608,259,616,294,0.507,1.01
+"203210","JaMychal Green","1610612743","Denver Nuggets",374,173,425,237,0.568,1.14
+"203914","Gary Harris","1610612743","Denver Nuggets",156,69,162,72,0.519,1.04
+"203932","Aaron Gordon","1610612743","Denver Nuggets",206,103,223,51,0.541,1.08
+"203999","Nikola Jokic","1610612743","Denver Nuggets",1293,732,1556,276,0.602,1.20
+"204222","Greg Whittington","1610612743","Denver Nuggets",3,0,0,0,0.000,0.00
+"1626162","Kelly Oubre Jr.","1610612744","Golden State Warriors",724,318,726,270,0.501,1.00
+"1626172","Kevon Looney","1610612744","Golden State Warriors",197,108,220,12,0.558,1.12
+"1627737","Marquese Chriss","1610612744","Golden State Warriors",14,5,11,3,0.393,0.79
+"1627780","Gary Payton II","1610612744","Golden State Warriors",13,10,22,6,0.846,1.69
+"1627814","Damion Lee","1610612744","Golden State Warriors",274,128,333,231,0.608,1.22
+"1628395","Jordan Bell","1610612744","Golden State Warriors",2,0,0,0,0.000,0.00
+"1628539","Mychal Mulder","1610612744","Golden State Warriors",265,119,323,255,0.609,1.22
+"1629308","Juan Toscano-Anderson","1610612744","Golden State Warriors",209,121,279,111,0.667,1.33
+"1629346","Alen Smailagic","1610612744","Golden State Warriors",27,11,26,12,0.481,0.96
+"1629672","Eric Paschall","1610612744","Golden State Warriors",298,148,314,54,0.527,1.05
+"1629673","Jordan Poole","1610612744","Golden State Warriors",474,205,506,288,0.534,1.07
+"1630164","James Wiseman","1610612744","Golden State Warriors",368,191,394,36,0.535,1.07
+"1630185","Nico Mannion","1610612744","Golden State Warriors",114,39,100,66,0.439,0.88
+"201939","Stephen Curry","1610612744","Golden State Warriors",1365,658,1652,1008,0.605,1.21
+"202954","Brad Wanamaker","1610612744","Golden State Warriors",173,61,135,39,0.390,0.78
+"203110","Draymond Green","1610612744","Golden State Warriors",380,170,374,102,0.492,0.98
+"203145","Kent Bazemore","1610612744","Golden State Warriors",392,176,426,222,0.543,1.09
+"203952","Andrew Wiggins","1610612744","Golden State Warriors",1058,505,1150,420,0.543,1.09
+"1626174","Christian Wood","1610612745","Houston Rockets",640,329,735,231,0.574,1.15
+"1627863","Danuel House Jr.","1610612745","Houston Rockets",272,110,274,162,0.504,1.01
+"1628021","David Nwaba","1610612745","Houston Rockets",218,106,229,51,0.525,1.05
+"1628383","Justin Patton","1610612745","Houston Rockets",70,29,67,27,0.479,0.96
+"1628391","D.J. Wilson","1610612745","Houston Rockets",125,52,124,60,0.496,0.99
+"1628419","Cameron Oliver","1610612745","Houston Rockets",33,19,42,12,0.636,1.27
+"1628425","Sterling Brown","1610612745","Houston Rockets",335,150,391,273,0.584,1.17
+"1629017","Khyri Thomas","1610612745","Houston Rockets",66,32,73,27,0.553,1.11
+"1629034","Ray Spalding","1610612745","Houston Rockets",4,2,4,0,0.500,1.00
+"1629066","Rodions Kurucs","1610612745","Houston Rockets",21,5,12,6,0.286,0.57
+"1629244","Cameron Reynolds","1610612745","Houston Rockets",16,5,13,9,0.406,0.81
+"1629610","DaQuan Jeffries","1610612745","Houston Rockets",63,26,63,33,0.500,1.00
+"1629645","Kevin Porter Jr.","1610612745","Houston Rockets",367,156,362,150,0.493,0.99
+"1629717","Armoni Brooks","1610612745","Houston Rockets",192,78,216,180,0.563,1.13
+"1630222","Mason Jones","1610612745","Houston Rockets",114,47,117,69,0.513,1.03
+"1630231","Kenyon Martin Jr.","1610612745","Houston Rockets",318,162,359,105,0.564,1.13
+"1630237","Anthony Lamb","1610612745","Houston Rockets",118,46,115,69,0.487,0.97
+"1630256","Jae'Sean Tate","1610612745","Houston Rockets",625,316,692,180,0.554,1.11
+"1630271","Brodric Thomas","1610612745","Houston Rockets",7,2,5,3,0.357,0.71
+"200782","P.J. Tucker","1610612745","Houston Rockets",131,48,123,81,0.469,0.94
+"201569","Eric Gordon","1610612745","Houston Rockets",367,159,387,207,0.527,1.05
+"201571","D.J. Augustin","1610612745","Houston Rockets",151,64,162,102,0.536,1.07
+"201935","James Harden","1610612745","Houston Rockets",135,60,145,75,0.537,1.07
+"202322","John Wall","1610612745","Houston Rockets",726,293,665,237,0.458,0.92
+"202326","DeMarcus Cousins","1610612745","Houston Rockets",210,79,197,117,0.469,0.94
+"202340","Avery Bradley","1610612745","Houston Rockets",105,33,83,51,0.395,0.79
+"203463","Ben McLemore","1610612745","Houston Rockets",224,80,215,165,0.480,0.96
+"203482","Kelly Olynyk","1610612745","Houston Rockets",321,175,399,147,0.621,1.24
+"203506","Victor Oladipo","1610612745","Houston Rockets",381,155,359,147,0.471,0.94
+"203998","Bruno Caboclo","1610612745","Houston Rockets",17,8,16,0,0.471,0.94
+"101150","Lou Williams","1610612746","LA Clippers",430,181,407,135,0.473,0.95
+"1627812","Yogi Ferrell","1610612746","LA Clippers",36,12,30,18,0.417,0.83
+"1627826","Ivica Zubac","1610612746","LA Clippers",394,257,515,3,0.654,1.31
+"1628379","Luke Kennard","1610612746","LA Clippers",414,197,494,300,0.597,1.19
+"1629599","Amir Coffey","1610612746","LA Clippers",103,45,113,69,0.549,1.10
+"1629611","Terance Mann","1610612746","LA Clippers",350,178,394,114,0.563,1.13
+"1629662","Mfiondu Kabengele","1610612746","LA Clippers",32,9,22,12,0.344,0.69
+"1630187","Daniel Oturu","1610612746","LA Clippers",52,22,45,3,0.433,0.87
+"1630206","Jay Scrubb","1610612746","LA Clippers",36,14,30,6,0.417,0.83
+"1630238","Malik Fitts","1610612746","LA Clippers",3,1,3,3,0.500,1.00
+"200765","Rajon Rondo","1610612746","LA Clippers",105,51,121,57,0.576,1.15
+"201586","Serge Ibaka","1610612746","LA Clippers",365,186,411,117,0.563,1.13
+"201587","Nicolas Batum","1610612746","LA Clippers",412,191,491,327,0.596,1.19
+"201976","Patrick Beverley","1610612746","LA Clippers",220,93,242,168,0.550,1.10
+"202326","DeMarcus Cousins","1610612746","LA Clippers",95,51,110,24,0.579,1.16
+"202331","Paul George","1610612746","LA Clippers",953,445,1061,513,0.557,1.11
+"202335","Patrick Patterson","1610612746","LA Clippers",165,72,184,120,0.558,1.12
+"202694","Marcus Morris Sr.","1610612746","LA Clippers",584,276,692,420,0.592,1.18
+"202695","Kawhi Leonard","1610612746","LA Clippers",908,465,1031,303,0.568,1.14
+"202704","Reggie Jackson","1610612746","LA Clippers",585,263,648,366,0.554,1.11
+"1626149","Montrezl Harrell","1610612747","Los Angeles Lakers",603,375,750,0,0.622,1.24
+"1626188","Quinn Cook","1610612747","Los Angeles Lakers",26,12,29,15,0.558,1.12
+"1627745","Damian Jones","1610612747","Los Angeles Lakers",17,16,32,0,0.941,1.88
+"1627936","Alex Caruso","1610612747","Los Angeles Lakers",305,133,321,165,0.526,1.05
+"1628035","Alfonzo McKinnie","1610612747","Los Angeles Lakers",93,48,112,48,0.602,1.20
+"1628398","Kyle Kuzma","1610612747","Los Angeles Lakers",757,335,807,411,0.533,1.07
+"1628961","Kostas Antetokounmpo","1610612747","Los Angeles Lakers",10,3,6,0,0.300,0.60
+"1629659","Talen Horton-Tucker","1610612747","Los Angeles Lakers",489,224,485,111,0.496,0.99
+"1629719","Devontae Cacok","1610612747","Los Angeles Lakers",29,17,34,0,0.586,1.17
+"201162","Jared Dudley","1610612747","Los Angeles Lakers",9,2,6,6,0.333,0.67
+"201188","Marc Gasol","1610612747","Los Angeles Lakers",194,88,226,150,0.582,1.16
+"202083","Wesley Matthews","1610612747","Los Angeles Lakers",252,89,244,198,0.484,0.97
+"202693","Markieff Morris","1610612747","Los Angeles Lakers",378,153,371,195,0.491,0.98
+"203076","Anthony Davis","1610612747","Los Angeles Lakers",613,301,628,78,0.512,1.02
+"203083","Andre Drummond","1610612747","Los Angeles Lakers",192,102,204,0,0.531,1.06
+"203463","Ben McLemore","1610612747","Los Angeles Lakers",141,55,152,126,0.539,1.08
+"203471","Dennis Schroder","1610612747","Los Angeles Lakers",760,332,734,210,0.483,0.97
+"203484","Kentavious Caldwell-Pope","1610612747","Los Angeles Lakers",506,218,555,357,0.548,1.10
+"2544","LeBron James","1610612747","Los Angeles Lakers",823,422,948,312,0.576,1.15
+"1628389","Bam Adebayo","1610612748","Miami Heat",800,456,914,6,0.571,1.14
+"1629130","Duncan Robinson","1610612748","Miami Heat",717,315,880,750,0.614,1.23
+"1629134","Kendrick Nunn","1610612748","Miami Heat",658,319,760,366,0.578,1.16
+"1629216","Gabe Vincent","1610612748","Miami Heat",233,88,222,138,0.476,0.95
+"1629622","Max Strus","1610612748","Miami Heat",187,85,220,150,0.588,1.18
+"1629639","Tyler Herro","1610612748","Miami Heat",699,307,721,321,0.516,1.03
+"1629644","KZ Okpala","1610612748","Miami Heat",96,36,84,36,0.438,0.88
+"1629735","Chris Silva","1610612748","Miami Heat",13,9,19,3,0.731,1.46
+"1630173","Precious Achiuwa","1610612748","Miami Heat",228,124,248,0,0.544,1.09
+"201609","Goran Dragic","1610612748","Miami Heat",555,240,571,273,0.514,1.03
+"202340","Avery Bradley","1610612748","Miami Heat",66,31,78,48,0.591,1.18
+"202357","Nemanja Bjelica","1610612748","Miami Heat",46,20,50,30,0.543,1.09
+"202710","Jimmy Butler","1610612748","Miami Heat",736,366,757,75,0.514,1.03
+"203086","Meyers Leonard","1610612748","Miami Heat",7,3,9,9,0.643,1.29
+"203090","Maurice Harkless","1610612748","Miami Heat",13,5,15,15,0.577,1.15
+"203473","Dewayne Dedmon","1610612748","Miami Heat",65,46,93,3,0.715,1.43
+"203482","Kelly Olynyk","1610612748","Miami Heat",376,162,401,231,0.533,1.07
+"203506","Victor Oladipo","1610612748","Miami Heat",43,16,36,12,0.419,0.84
+"2617","Udonis Haslem","1610612748","Miami Heat",2,2,4,0,1.000,2.00
+"2738","Andre Iguodala","1610612748","Miami Heat",248,95,250,180,0.504,1.01
+"2772","Trevor Ariza","1610612748","Miami Heat",241,99,248,150,0.515,1.03
+"1626171","Bobby Portis","1610612749","Milwaukee Bucks",598,313,700,222,0.585,1.17
+"1626192","Pat Connaughton","1610612749","Milwaukee Bucks",387,168,437,303,0.565,1.13
+"1626253","Axel Toupane","1610612749","Milwaukee Bucks",11,4,9,3,0.409,0.82
+"1627854","Bryn Forbes","1610612749","Milwaukee Bucks",529,250,654,462,0.618,1.24
+"1628382","Justin Jackson","1610612749","Milwaukee Bucks",9,3,8,6,0.444,0.89
+"1628391","D.J. Wilson","1610612749","Milwaukee Bucks",43,16,42,30,0.488,0.98
+"1628470","Torrey Craig","1610612749","Milwaukee Bucks",46,18,44,24,0.478,0.96
+"1628978","Donte DiVincenzo","1610612749","Milwaukee Bucks",603,253,637,393,0.528,1.06
+"1629066","Rodions Kurucs","1610612749","Milwaukee Bucks",8,5,13,9,0.813,1.63
+"1629091","Elijah Bryant","1610612749","Milwaukee Bucks",13,6,13,3,0.500,1.00
+"1629121","Jaylen Adams","1610612749","Milwaukee Bucks",8,1,2,0,0.125,0.25
+"1629603","Mamadi Diakite","1610612749","Milwaukee Bucks",40,16,33,3,0.413,0.83
+"1629670","Jordan Nwora","1610612749","Milwaukee Bucks",135,62,152,84,0.563,1.13
+"1630241","Sam Merrill","1610612749","Milwaukee Bucks",72,32,85,63,0.590,1.18
+"200782","P.J. Tucker","1610612749","Milwaukee Bucks",46,18,49,39,0.533,1.07
+"201571","D.J. Augustin","1610612749","Milwaukee Bucks",192,71,191,147,0.497,0.99
+"201572","Brook Lopez","1610612749","Milwaukee Bucks",640,322,739,285,0.577,1.15
+"201950","Jrue Holiday","1610612749","Milwaukee Bucks",823,414,939,333,0.570,1.14
+"201952","Jeff Teague","1610612749","Milwaukee Bucks",96,45,100,30,0.521,1.04
+"203114","Khris Middleton","1610612749","Milwaukee Bucks",1074,511,1173,453,0.546,1.09
+"203507","Giannis Antetokounmpo","1610612749","Milwaukee Bucks",1100,626,1319,201,0.600,1.20
+"203648","Thanasis Antetokounmpo","1610612749","Milwaukee Bucks",137,67,141,21,0.515,1.03
+"1626156","D'Angelo Russell","1610612750","Minnesota Timberwolves",652,281,682,360,0.523,1.05
+"1626157","Karl-Anthony Towns","1610612750","Minnesota Timberwolves",875,425,972,366,0.555,1.11
+"1627736","Malik Beasley","1610612750","Minnesota Timberwolves",600,264,655,381,0.546,1.09
+"1627774","Jake Layman","1610612750","Minnesota Timberwolves",184,91,205,69,0.557,1.11
+"1627823","Juancho Hernangomez","1610612750","Minnesota Timberwolves",299,130,315,165,0.527,1.05
+"1629006","Josh Okogie","1610612750","Minnesota Timberwolves",254,102,232,84,0.457,0.91
+"1629020","Jarred Vanderbilt","1610612750","Minnesota Timberwolves",236,143,287,3,0.608,1.22
+"1629162","Jordan McLaughlin","1610612750","Minnesota Timberwolves",242,100,232,96,0.479,0.96
+"1629633","Jarrett Culver","1610612750","Minnesota Timberwolves",168,69,151,39,0.449,0.90
+"1629669","Jaylen Nowell","1610612750","Minnesota Timberwolves",335,142,332,144,0.496,0.99
+"1629675","Naz Reid","1610612750","Minnesota Timberwolves",581,304,669,183,0.576,1.15
+"1630162","Anthony Edwards","1610612750","Minnesota Timberwolves",1211,505,1180,510,0.487,0.97
+"1630183","Jaden McDaniels","1610612750","Minnesota Timberwolves",367,164,400,216,0.545,1.09
+"201937","Ricky Rubio","1610612750","Minnesota Timberwolves",498,193,451,195,0.453,0.91
+"202334","Ed Davis","1610612750","Minnesota Timberwolves",44,19,38,0,0.432,0.86
+"1627747","Caris LeVert","1610612751","Brooklyn Nets",200,87,196,66,0.490,0.98
+"1627752","Taurean Prince","1610612751","Brooklyn Nets",74,30,73,39,0.493,0.99
+"1627789","Timothe Luwawu-Cabarrot","1610612751","Brooklyn Nets",356,130,335,225,0.471,0.94
+"1628386","Jarrett Allen","1610612751","Brooklyn Nets",65,44,88,0,0.677,1.35
+"1628455","Mike James","1610612751","Brooklyn Nets",92,34,79,33,0.429,0.86
+"1628971","Bruce Brown","1610612751","Brooklyn Nets",423,235,487,51,0.576,1.15
+"1628993","Alize Johnson","1610612751","Brooklyn Nets",68,40,81,3,0.596,1.19
+"1629013","Landry Shamet","1610612751","Brooklyn Nets",456,186,501,387,0.549,1.10
+"1629066","Rodions Kurucs","1610612751","Brooklyn Nets",3,1,3,3,0.500,1.00
+"1629076","Tyler Cook","1610612751","Brooklyn Nets",3,1,2,0,0.333,0.67
+"1629185","Chris Chiozza","1610612751","Brooklyn Nets",88,31,75,39,0.426,0.85
+"1629617","Reggie Perry","1610612751","Brooklyn Nets",78,32,68,12,0.436,0.87
+"1629651","Nic Claxton","1610612751","Brooklyn Nets",145,90,181,3,0.624,1.25
+"200746","LaMarcus Aldridge","1610612751","Brooklyn Nets",48,25,54,12,0.563,1.13
+"201142","Kevin Durant","1610612751","Brooklyn Nets",603,324,733,255,0.608,1.22
+"201145","Jeff Green","1610612751","Brooklyn Nets",530,261,625,309,0.590,1.18
+"201599","DeAndre Jordan","1610612751","Brooklyn Nets",249,190,380,0,0.763,1.53
+"201933","Blake Griffin","1610612751","Brooklyn Nets",189,93,217,93,0.574,1.15
+"201935","James Harden","1610612751","Brooklyn Nets",599,282,660,288,0.551,1.10
+"202681","Kyrie Irving","1610612751","Brooklyn Nets",1086,549,1250,456,0.576,1.15
+"202697","Iman Shumpert","1610612751","Brooklyn Nets",4,1,2,0,0.250,0.50
+"203460","Andre Roberson","1610612751","Brooklyn Nets",14,2,5,3,0.179,0.36
+"203658","Norvel Pelle","1610612751","Brooklyn Nets",7,3,6,0,0.429,0.86
+"203915","Spencer Dinwiddie","1610612751","Brooklyn Nets",16,6,14,6,0.438,0.88
+"203925","Joe Harris","1610612751","Brooklyn Nets",707,357,925,633,0.654,1.31
+"203943","Noah Vonleh","1610612751","Brooklyn Nets",3,0,0,0,0.000,0.00
+"204020","Tyler Johnson","1610612751","Brooklyn Nets",183,72,192,144,0.525,1.05
+"1628372","Dennis Smith Jr.","1610612752","New York Knicks",10,2,4,0,0.200,0.40
+"1628373","Frank Ntilikina","1610612752","New York Knicks",79,29,81,69,0.513,1.03
+"1628995","Kevin Knox II","1610612752","New York Knicks",143,56,147,105,0.514,1.03
+"1629011","Mitchell Robinson","1610612752","New York Knicks",176,115,230,0,0.653,1.31
+"1629033","Theo Pinson","1610612752","New York Knicks",9,1,2,0,0.111,0.22
+"1629607","Jared Harper","1610612752","New York Knicks",4,0,0,0,0.000,0.00
+"1629628","RJ Barrett","1610612752","New York Knicks",1060,467,1056,366,0.498,1.00
+"1629649","Ignas Brazdeikis","1610612752","New York Knicks",1,0,0,0,0.000,0.00
+"1630167","Obi Toppin","1610612752","New York Knicks",209,104,234,78,0.560,1.12
+"1630193","Immanuel Quickley","1610612752","New York Knicks",580,229,576,354,0.497,0.99
+"201565","Derrick Rose","1610612752","New York Knicks",427,208,453,111,0.530,1.06
+"201959","Taj Gibson","1610612752","New York Knicks",158,99,201,9,0.636,1.27
+"202692","Alec Burks","1610612752","New York Knicks",500,210,522,306,0.522,1.04
+"203085","Austin Rivers","1610612752","New York Knicks",135,58,144,84,0.533,1.07
+"203457","Nerlens Noel","1610612752","New York Knicks",223,137,274,0,0.614,1.23
+"203493","Reggie Bullock","1610612752","New York Knicks",561,248,659,489,0.587,1.17
+"203658","Norvel Pelle","1610612752","New York Knicks",7,5,10,0,0.714,1.43
+"203901","Elfrid Payton","1610612752","New York Knicks",622,269,566,84,0.455,0.91
+"203944","Julius Randle","1610612752","New York Knicks",1321,602,1364,480,0.516,1.03
+"1626184","Chasson Randle","1610612753","Orlando Magic",237,92,228,132,0.481,0.96
+"1628365","Markelle Fultz","1610612753","Orlando Magic",104,41,86,12,0.413,0.83
+"1628407","Dwayne Bacon","1610612753","Orlando Magic",726,292,643,177,0.443,0.89
+"1628412","Frank Mason III","1610612753","Orlando Magic",24,9,20,6,0.417,0.83
+"1628414","Sindarius Thornwell","1610612753","Orlando Magic",25,8,20,12,0.400,0.80
+"1628964","Mo Bamba","1610612753","Orlando Magic",301,142,322,114,0.535,1.07
+"1628976","Wendell Carter Jr.","1610612753","Orlando Magic",205,101,209,21,0.510,1.02
+"1629021","Moritz Wagner","1610612753","Orlando Magic",93,38,92,48,0.495,0.99
+"1629109","Gary Clark","1610612753","Orlando Magic",131,40,111,93,0.424,0.85
+"1629606","Robert Franks","1610612753","Orlando Magic",28,13,31,15,0.554,1.11
+"1629643","Chuma Okeke","1610612753","Orlando Magic",324,135,319,147,0.492,0.98
+"1629648","Jordan Bone","1610612753","Orlando Magic",54,23,56,30,0.519,1.04
+"1629649","Ignas Brazdeikis","1610612753","Orlando Magic",79,35,81,33,0.513,1.03
+"1629743","Donta Hall","1610612753","Orlando Magic",35,25,50,0,0.714,1.43
+"1629962","Devin Cannady","1610612753","Orlando Magic",28,11,28,18,0.500,1.00
+"1630175","Cole Anthony","1610612753","Orlando Magic",552,219,496,174,0.449,0.90
+"1630181","R.J. Hampton","1610612753","Orlando Magic",253,111,244,66,0.482,0.96
+"1630211","Karim Mane","1610612753","Orlando Magic",13,3,7,3,0.269,0.54
+"202329","Al-Farouq Aminu","1610612753","Orlando Magic",89,36,79,21,0.444,0.89
+"202696","Nikola Vucevic","1610612753","Orlando Magic",908,436,989,351,0.545,1.09
+"203082","Terrence Ross","1610612753","Orlando Magic",616,254,597,267,0.485,0.97
+"203095","Evan Fournier","1610612753","Orlando Magic",369,170,413,219,0.560,1.12
+"203487","Michael Carter-Williams","1610612753","Orlando Magic",270,105,225,45,0.417,0.83
+"203490","Otto Porter Jr.","1610612753","Orlando Magic",25,9,19,3,0.380,0.76
+"203516","James Ennis III","1610612753","Orlando Magic",243,115,275,135,0.566,1.13
+"203914","Gary Harris","1610612753","Orlando Magic",189,69,162,72,0.429,0.86
+"203920","Khem Birch","1610612753","Orlando Magic",209,94,192,12,0.459,0.92
+"203932","Aaron Gordon","1610612753","Orlando Magic",293,128,298,126,0.509,1.02
+"1626167","Myles Turner","1610612754","Indiana Pacers",432,206,481,207,0.557,1.11
+"1627734","Domantas Sabonis","1610612754","Indiana Pacers",904,484,1020,156,0.564,1.13
+"1627747","Caris LeVert","1610612754","Indiana Pacers",614,272,606,186,0.493,0.99
+"1627763","Malcolm Brogdon","1610612754","Indiana Pacers",980,444,1033,435,0.527,1.05
+"1628410","Edmond Sumner","1610612754","Indiana Pacers",282,148,331,105,0.587,1.17
+"1628578","Amida Brimah","1610612754","Indiana Pacers",8,5,10,0,0.625,1.25
+"1628968","Brian Bowen II","1610612754","Indiana Pacers",4,1,2,0,0.250,0.50
+"1628988","Aaron Holiday","1610612754","Indiana Pacers",436,170,407,201,0.467,0.93
+"1629048","Goga Bitadze","1610612754","Indiana Pacers",194,83,186,60,0.479,0.96
+"1629052","Oshae Brissett","1610612754","Indiana Pacers",151,73,179,99,0.593,1.19
+"1629103","Kelan Martin","1610612754","Indiana Pacers",138,62,148,72,0.536,1.07
+"1629665","Jalen Lecque","1610612754","Indiana Pacers",9,1,2,0,0.111,0.22
+"1630199","Cassius Stanley","1610612754","Indiana Pacers",43,13,29,9,0.337,0.67
+"203087","Jeremy Lamb","1610612754","Indiana Pacers",276,120,292,156,0.529,1.06
+"203200","Justin Holiday","1610612754","Indiana Pacers",625,258,689,519,0.551,1.10
+"203506","Victor Oladipo","1610612754","Indiana Pacers",152,64,153,75,0.503,1.01
+"203926","Doug McDermott","1610612754","Indiana Pacers",665,354,819,333,0.616,1.23
+"203933","T.J. Warren","1610612754","Indiana Pacers",51,27,54,0,0.529,1.06
+"203960","JaKarr Sampson","1610612754","Indiana Pacers",113,56,115,9,0.509,1.02
+"204456","T.J. McConnell","1610612754","Indiana Pacers",490,274,563,45,0.574,1.15
+"1627732","Ben Simmons","1610612755","Philadelphia 76ers",583,325,653,9,0.560,1.12
+"1627788","Furkan Korkmaz","1610612755","Philadelphia 76ers",424,170,441,303,0.520,1.04
+"1628390","Terrance Ferguson","1610612755","Philadelphia 76ers",7,1,2,0,0.143,0.29
+"1628396","Tony Bradley","1610612755","Philadelphia 76ers",75,51,102,0,0.680,1.36
+"1629003","Shake Milton","1610612755","Philadelphia 76ers",667,300,671,213,0.503,1.01
+"1629109","Gary Clark","1610612755","Philadelphia 76ers",1,0,0,0,0.000,0.00
+"1629649","Ignas Brazdeikis","1610612755","Philadelphia 76ers",3,0,0,0,0.000,0.00
+"1629680","Matisse Thybulle","1610612755","Philadelphia 76ers",243,102,247,129,0.508,1.02
+"1629730","Rayjon Tucker","1610612755","Philadelphia 76ers",18,9,20,6,0.556,1.11
+"1629738","Vincent Poirier","1610612755","Philadelphia 76ers",12,3,6,0,0.250,0.50
+"1629751","Dakota Mathias","1610612755","Philadelphia 76ers",48,19,46,24,0.479,0.96
+"1630178","Tyrese Maxey","1610612755","Philadelphia 76ers",429,198,427,93,0.498,1.00
+"1630194","Paul Reed","1610612755","Philadelphia 76ers",78,42,84,0,0.538,1.08
+"1630198","Isaiah Joe","1610612755","Philadelphia 76ers",133,48,135,117,0.508,1.02
+"1630222","Mason Jones","1610612755","Philadelphia 76ers",9,5,11,3,0.611,1.22
+"201229","Anthony Tolliver","1610612755","Philadelphia 76ers",17,4,12,12,0.353,0.71
+"201588","George Hill","1610612755","Philadelphia 76ers",77,34,77,27,0.500,1.00
+"201980","Danny Green","1610612755","Philadelphia 76ers",544,224,623,525,0.573,1.15
+"202699","Tobias Harris","1610612755","Philadelphia 76ers",924,473,1028,246,0.556,1.11
+"203118","Mike Scott","1610612755","Philadelphia 76ers",211,76,205,159,0.486,0.97
+"203552","Seth Curry","1610612755","Philadelphia 76ers",552,258,643,381,0.582,1.16
+"203954","Joel Embiid","1610612755","Philadelphia 76ers",899,461,980,174,0.545,1.09
+"2730","Dwight Howard","1610612755","Philadelphia 76ers",303,178,361,15,0.596,1.19
+"101108","Chris Paul","1610612756","Phoenix Suns",879,439,980,306,0.557,1.11
+"1626163","Frank Kaminsky","1610612756","Phoenix Suns",257,121,273,93,0.531,1.06
+"1626164","Devin Booker","1610612756","Phoenix Suns",1287,623,1373,381,0.533,1.07
+"1626166","Cameron Payne","1610612756","Phoenix Suns",395,191,455,219,0.576,1.15
+"1627745","Damian Jones","1610612756","Phoenix Suns",16,8,16,0,0.500,1.00
+"1627846","Abdel Nader","1610612756","Phoenix Suns",116,57,132,54,0.569,1.14
+"1628470","Torrey Craig","1610612756","Phoenix Suns",181,91,213,93,0.588,1.18
+"1628969","Mikal Bridges","1610612756","Phoenix Suns",669,363,859,399,0.642,1.28
+"1628975","Jevon Carter","1610612756","Phoenix Suns",223,94,244,168,0.547,1.09
+"1629028","Deandre Ayton","1610612756","Phoenix Suns",687,430,864,12,0.629,1.26
+"1629661","Cameron Johnson","1610612756","Phoenix Suns",483,203,523,351,0.541,1.08
+"1630188","Jalen Smith","1610612756","Phoenix Suns",50,22,48,12,0.480,0.96
+"1630234","Ty-Shon Alexander","1610612756","Phoenix Suns",12,3,8,6,0.333,0.67
+"202734","E'Twaun Moore","1610612756","Phoenix Suns",121,55,121,33,0.500,1.00
+"203109","Jae Crowder","1610612756","Phoenix Suns",492,199,546,444,0.555,1.11
+"203967","Dario Saric","1610612756","Phoenix Suns",342,153,353,141,0.516,1.03
+"204038","Langston Galloway","1610612756","Phoenix Suns",147,66,168,108,0.571,1.14
+"1626178","Rondae Hollis-Jefferson","1610612757","Portland Trail Blazers",18,9,18,0,0.500,1.00
+"1626181","Norman Powell","1610612757","Portland Trail Blazers",352,156,364,156,0.517,1.03
+"1627884","Derrick Jones Jr.","1610612757","Portland Trail Blazers",304,147,337,129,0.554,1.11
+"1628385","Harry Giles III","1610612757","Portland Trail Blazers",97,42,92,24,0.474,0.95
+"1628388","T.J. Leaf","1610612757","Portland Trail Blazers",10,5,10,0,0.500,1.00
+"1629014","Anfernee Simons","1610612757","Portland Trail Blazers",401,168,456,360,0.569,1.14
+"1629018","Gary Trent Jr.","1610612757","Portland Trail Blazers",524,217,555,363,0.530,1.06
+"1629604","CJ Elleby","1610612757","Portland Trail Blazers",66,25,57,21,0.432,0.86
+"1629642","Nassir Little","1610612757","Portland Trail Blazers",167,78,184,84,0.551,1.10
+"1629833","Keljin Blevins","1610612757","Portland Trail Blazers",20,5,12,6,0.300,0.60
+"202683","Enes Freedom","1610612757","Portland Trail Blazers",561,339,679,3,0.605,1.21
+"203081","Damian Lillard","1610612757","Portland Trail Blazers",1334,602,1479,825,0.554,1.11
+"203468","CJ McCollum","1610612757","Portland Trail Blazers",884,405,979,507,0.554,1.11
+"203496","Robert Covington","1610612757","Portland Trail Blazers",509,204,543,405,0.533,1.07
+"203918","Rodney Hood","1610612757","Portland Trail Blazers",201,73,171,75,0.425,0.85
+"203994","Jusuf Nurkic","1610612757","Portland Trail Blazers",333,171,354,36,0.532,1.06
+"2546","Carmelo Anthony","1610612757","Portland Trail Blazers",777,327,787,399,0.506,1.01
+"1626153","Delon Wright","1610612758","Sacramento Kings",225,104,241,99,0.536,1.07
+"1626158","Richaun Holmes","1610612758","Sacramento Kings",575,366,734,6,0.638,1.28
+"1627741","Buddy Hield","1610612758","Sacramento Kings",992,403,1087,843,0.548,1.10
+"1627745","Damian Jones","1610612758","Sacramento Kings",70,46,93,3,0.664,1.33
+"1628368","De'Aaron Fox","1610612758","Sacramento Kings",1110,529,1161,309,0.523,1.05
+"1628963","Marvin Bagley III","1610612758","Sacramento Kings",490,247,531,111,0.542,1.08
+"1629002","Chimezie Metu","1610612758","Sacramento Kings",179,91,195,39,0.545,1.09
+"1629056","Terence Davis","1610612758","Sacramento Kings",246,108,270,162,0.549,1.10
+"1629610","DaQuan Jeffries","1610612758","Sacramento Kings",57,24,57,27,0.500,1.00
+"1629657","Kyle Guy","1610612758","Sacramento Kings",88,29,71,39,0.403,0.81
+"1629663","Louis King","1610612758","Sacramento Kings",34,17,38,12,0.559,1.12
+"1629713","Justin James","1610612758","Sacramento Kings",111,52,118,42,0.532,1.06
+"1629735","Chris Silva","1610612758","Sacramento Kings",3,1,2,0,0.333,0.67
+"1630169","Tyrese Haliburton","1610612758","Sacramento Kings",619,292,705,363,0.569,1.14
+"1630186","Jahmi'us Ramsey","1610612758","Sacramento Kings",38,15,35,15,0.461,0.92
+"1630218","Robert Woodard II","1610612758","Sacramento Kings",20,8,17,3,0.425,0.85
+"202355","Hassan Whiteside","1610612758","Sacramento Kings",224,126,252,0,0.563,1.13
+"202357","Nemanja Bjelica","1610612758","Sacramento Kings",150,69,155,51,0.517,1.03
+"202709","Cory Joseph","1610612758","Sacramento Kings",250,111,253,93,0.506,1.01
+"203084","Harrison Barnes","1610612758","Sacramento Kings",642,319,738,300,0.575,1.15
+"203090","Maurice Harkless","1610612758","Sacramento Kings",152,64,147,57,0.484,0.97
+"203658","Norvel Pelle","1610612758","Sacramento Kings",1,0,0,0,0.000,0.00
+"203922","Glenn Robinson III","1610612758","Sacramento Kings",99,42,100,48,0.505,1.01
+"203953","Jabari Parker","1610612758","Sacramento Kings",7,4,8,0,0.571,1.14
+"1626168","Trey Lyles","1610612759","San Antonio Spurs",90,43,100,42,0.556,1.11
+"1627749","Dejounte Murray","1610612759","San Antonio Spurs",974,441,945,189,0.485,0.97
+"1627751","Jakob Poeltl","1610612759","San Antonio Spurs",430,265,530,0,0.616,1.23
+"1628401","Derrick White","1610612759","San Antonio Spurs",453,186,456,252,0.503,1.01
+"1628966","Keita Bates-Diop","1610612759","San Antonio Spurs",67,30,65,15,0.485,0.97
+"1629022","Lonnie Walker IV","1610612759","San Antonio Spurs",609,256,612,300,0.502,1.00
+"1629234","Drew Eubanks","1610612759","San Antonio Spurs",205,116,234,6,0.571,1.14
+"1629244","Cameron Reynolds","1610612759","San Antonio Spurs",2,1,2,0,0.500,1.00
+"1629640","Keldon Johnson","1610612759","San Antonio Spurs",705,338,736,180,0.522,1.04
+"1629677","Luka Samanic","1610612759","San Antonio Spurs",105,47,106,36,0.505,1.01
+"1629683","Quinndary Weatherspoon","1610612759","San Antonio Spurs",35,16,33,3,0.471,0.94
+"1630170","Devin Vassell","1610612759","San Antonio Spurs",303,123,298,156,0.492,0.98
+"1630200","Tre Jones","1610612759","San Antonio Spurs",78,37,77,9,0.494,0.99
+"200746","LaMarcus Aldridge","1610612759","San Antonio Spurs",248,115,257,81,0.518,1.04
+"200752","Rudy Gay","1610612759","San Antonio Spurs",628,264,634,318,0.505,1.01
+"201942","DeMar DeRozan","1610612759","San Antonio Spurs",920,455,929,57,0.505,1.01
+"201988","Patty Mills","1610612759","San Antonio Spurs",611,252,665,483,0.544,1.09
+"203476","Gorgui Dieng","1610612759","San Antonio Spurs",55,29,65,21,0.591,1.18
+"1628382","Justin Jackson","1610612760","Oklahoma City Thunder",212,86,205,99,0.483,0.97
+"1628396","Tony Bradley","1610612760","Oklahoma City Thunder",122,80,160,0,0.656,1.31
+"1628977","Hamidou Diallo","1610612760","Oklahoma City Thunder",297,143,298,36,0.502,1.00
+"1628983","Shai Gilgeous-Alexander","1610612760","Oklahoma City Thunder",565,287,645,213,0.571,1.14
+"1629004","Svi Mykhailiuk","1610612760","Oklahoma City Thunder",283,124,296,144,0.523,1.05
+"1629026","Kenrich Williams","1610612760","Oklahoma City Thunder",411,219,490,156,0.596,1.19
+"1629620","Justin Robinson","1610612760","Oklahoma City Thunder",21,7,18,12,0.429,0.86
+"1629647","Darius Bazley","1610612760","Oklahoma City Thunder",690,273,629,249,0.456,0.91
+"1629650","Moses Brown","1610612760","Oklahoma City Thunder",268,146,292,0,0.545,1.09
+"1629652","Luguentz Dort","1610612760","Oklahoma City Thunder",639,247,606,336,0.474,0.95
+"1629658","Jaylen Hoard","1610612760","Oklahoma City Thunder",88,44,88,0,0.500,1.00
+"1629660","Ty Jerome","1610612760","Oklahoma City Thunder",287,128,327,213,0.570,1.14
+"1629676","Isaiah Roby","1610612760","Oklahoma City Thunder",429,207,445,93,0.519,1.04
+"1629718","Charlie Brown Jr.","1610612760","Oklahoma City Thunder",43,13,31,15,0.360,0.72
+"1630177","Theo Maledon","1610612760","Oklahoma City Thunder",614,226,557,315,0.454,0.91
+"1630197","Aleksej Pokusevski","1610612760","Oklahoma City Thunder",408,139,336,174,0.412,0.82
+"1630221","Josh Hall","1610612760","Oklahoma City Thunder",99,30,64,12,0.323,0.65
+"1630466","Gabriel Deck","1610612760","Oklahoma City Thunder",67,32,66,6,0.493,0.99
+"201143","Al Horford","1610612760","Oklahoma City Thunder",360,162,380,168,0.528,1.06
+"201588","George Hill","1610612760","Oklahoma City Thunder",120,61,144,66,0.600,1.20
+"203121","Darius Miller","1610612760","Oklahoma City Thunder",48,22,61,51,0.635,1.27
+"203488","Mike Muscala","1610612760","Oklahoma City Thunder",267,119,306,204,0.573,1.15
+"1626169","Stanley Johnson","1610612761","Toronto Raptors",233,89,223,135,0.479,0.96
+"1626181","Norman Powell","1610612761","Toronto Raptors",566,282,682,354,0.602,1.20
+"1627740","Henry Ellenson","1610612761","Toronto Raptors",14,5,12,6,0.429,0.86
+"1627761","DeAndre' Bembry","1610612761","Toronto Raptors",228,117,248,42,0.544,1.09
+"1627775","Patrick McCaw","1610612761","Toronto Raptors",1,1,2,0,1.000,2.00
+"1627783","Pascal Siakam","1610612761","Toronto Raptors",961,437,947,219,0.493,0.99
+"1627832","Fred VanVleet","1610612761","Toronto Raptors",870,338,850,522,0.489,0.98
+"1628384","OG Anunoby","1610612761","Toronto Raptors",519,249,601,309,0.579,1.16
+"1628449","Chris Boucher","1610612761","Toronto Raptors",560,288,666,270,0.595,1.19
+"1628778","Paul Watson","1610612761","Toronto Raptors",82,38,106,90,0.646,1.29
+"1629018","Gary Trent Jr.","1610612761","Toronto Raptors",261,103,250,132,0.479,0.96
+"1629056","Terence Davis","1610612761","Toronto Raptors",210,87,218,132,0.519,1.04
+"1629139","Yuta Watanabe","1610612761","Toronto Raptors",180,79,194,108,0.539,1.08
+"1629744","Matt Thomas","1610612761","Toronto Raptors",62,24,65,51,0.524,1.05
+"1630201","Malachi Flynn","1610612761","Toronto Raptors",340,127,307,159,0.451,0.90
+"1630223","Jalen Harris","1610612761","Toronto Raptors",72,36,89,51,0.618,1.24
+"1630273","Freddie Gillespie","1610612761","Toronto Raptors",84,44,88,0,0.524,1.05
+"200768","Kyle Lowry","1610612761","Toronto Raptors",596,260,651,393,0.546,1.09
+"203382","Aron Baynes","1610612761","Toronto Raptors",304,134,295,81,0.485,0.97
+"203458","Alex Len","1610612761","Toronto Raptors",10,5,13,9,0.650,1.30
+"203918","Rodney Hood","1610612761","Toronto Raptors",59,21,51,27,0.432,0.86
+"203920","Khem Birch","1610612761","Toronto Raptors",171,95,199,27,0.582,1.16
+"101141","Ersan Ilyasova","1610612762","Utah Jazz",54,21,60,54,0.556,1.11
+"1626220","Royce O'Neale","1610612762","Utah Jazz",394,175,457,321,0.580,1.16
+"1627777","Georges Niang","1610612762","Utah Jazz",405,177,478,372,0.590,1.18
+"1627885","Shaquille Harrison","1610612762","Utah Jazz",20,6,12,0,0.300,0.60
+"1628378","Donovan Mitchell","1610612762","Utah Jazz",1091,478,1134,534,0.520,1.04
+"1628962","Udoka Azubuike","1610612762","Utah Jazz",9,4,8,0,0.444,0.89
+"1629671","Miye Oni","1610612762","Utah Jazz",99,35,100,90,0.505,1.01
+"1629714","Jarrell Brantley","1610612762","Utah Jazz",52,25,62,36,0.596,1.19
+"1629744","Matt Thomas","1610612762","Utah Jazz",65,26,62,30,0.477,0.95
+"1629752","Juwan Morgan","1610612762","Utah Jazz",30,14,32,12,0.533,1.07
+"1630190","Elijah Hughes","1610612762","Utah Jazz",30,10,28,24,0.467,0.93
+"1630235","Trent Forrest","1610612762","Utah Jazz",71,32,69,15,0.486,0.97
+"201144","Mike Conley","1610612762","Utah Jazz",640,284,707,417,0.552,1.10
+"202324","Derrick Favors","1610612762","Utah Jazz",243,155,310,0,0.638,1.28
+"202711","Bojan Bogdanovic","1610612762","Utah Jazz",925,406,992,540,0.536,1.07
+"203497","Rudy Gobert","1610612762","Utah Jazz",579,391,782,0,0.675,1.35
+"203903","Jordan Clarkson","1610612762","Utah Jazz",1075,457,1122,624,0.522,1.04
+"204060","Joe Ingles","1610612762","Utah Jazz",562,275,732,546,0.651,1.30
+"1626145","Tyus Jones","1610612763","Memphis Grizzlies",413,178,401,135,0.485,0.97
+"1626159","Justise Winslow","1610612763","Memphis Grizzlies",210,74,158,30,0.376,0.75
+"1628415","Dillon Brooks","1610612763","Memphis Grizzlies",1031,432,992,384,0.481,0.96
+"1628960","Grayson Allen","1610612763","Memphis Grizzlies",414,173,453,321,0.547,1.09
+"1628991","Jaren Jackson Jr.","1610612763","Memphis Grizzlies",125,53,122,48,0.488,0.98
+"1629001","De'Anthony Melton","1610612763","Memphis Grizzlies",393,172,431,261,0.548,1.10
+"1629007","Jontay Porter","1610612763","Memphis Grizzlies",15,8,19,9,0.633,1.27
+"1629630","Ja Morant","1610612763","Memphis Grizzlies",957,430,933,219,0.487,0.97
+"1629634","Brandon Clarke","1610612763","Memphis Grizzlies",495,256,532,60,0.537,1.07
+"1629681","Killian Tillie","1610612763","Memphis Grizzlies",57,19,48,30,0.421,0.84
+"1629723","John Konchar","1610612763","Memphis Grizzlies",138,69,159,63,0.576,1.15
+"1630214","Xavier Tillman","1610612763","Memphis Grizzlies",299,167,356,66,0.595,1.19
+"1630217","Desmond Bane","1610612763","Memphis Grizzlies",499,234,585,351,0.586,1.17
+"1630253","Sean McDermott","1610612763","Memphis Grizzlies",33,13,31,15,0.470,0.94
+"202685","Jonas Valanciunas","1610612763","Memphis Grizzlies",743,440,901,63,0.606,1.21
+"203476","Gorgui Dieng","1610612763","Memphis Grizzlies",108,56,135,69,0.625,1.25
+"203937","Kyle Anderson","1610612763","Memphis Grizzlies",658,308,710,282,0.540,1.08
+"204025","Tim Frazier","1610612763","Memphis Grizzlies",20,3,6,0,0.150,0.30
+"1628394","Anzejs Pasecniks","1610612764","Washington Wizards",1,0,0,0,0.000,0.00
+"1628395","Jordan Bell","1610612764","Washington Wizards",20,7,14,0,0.350,0.70
+"1628418","Thomas Bryant","1610612764","Washington Wizards",91,59,127,27,0.698,1.40
+"1628972","Troy Brown Jr.","1610612764","Washington Wizards",89,33,80,42,0.449,0.90
+"1628990","Chandler Hutchison","1610612764","Washington Wizards",85,34,75,21,0.441,0.88
+"1629010","Jerome Robinson","1610612764","Washington Wizards",95,28,67,33,0.353,0.71
+"1629021","Moritz Wagner","1610612764","Washington Wizards",122,62,137,39,0.561,1.12
+"1629060","Rui Hachimura","1610612764","Washington Wizards",648,310,665,135,0.513,1.03
+"1629067","Isaac Bonga","1610612764","Washington Wizards",81,30,73,39,0.451,0.90
+"1629655","Daniel Gafford","1610612764","Washington Wizards",138,94,188,0,0.681,1.36
+"1629726","Garrison Mathews","1610612764","Washington Wizards",237,97,270,228,0.570,1.14
+"1630166","Deni Avdija","1610612764","Washington Wizards",312,130,313,159,0.502,1.00
+"1630216","Cassius Winston","1610612764","Washington Wizards",33,14,36,24,0.545,1.09
+"1630264","Anthony Gill","1610612764","Washington Wizards",60,30,67,21,0.558,1.12
+"201566","Russell Westbrook","1610612764","Washington Wizards",1238,544,1174,258,0.474,0.95
+"201577","Robin Lopez","1610612764","Washington Wizards",425,269,543,15,0.639,1.28
+"202397","Ish Smith","1610612764","Washington Wizards",297,129,276,54,0.465,0.93
+"202722","Davis Bertans","1610612764","Washington Wizards",478,193,555,507,0.581,1.16
+"203078","Bradley Beal","1610612764","Washington Wizards",1382,670,1470,390,0.532,1.06
+"203458","Alex Len","1610612764","Washington Wizards",268,166,337,15,0.629,1.26
+"203526","Raul Neto","1610612764","Washington Wizards",447,209,482,192,0.539,1.08
+"1626143","Jahlil Okafor","1610612765","Detroit Pistons",102,63,128,6,0.627,1.25
+"1626153","Delon Wright","1610612765","Detroit Pistons",293,136,303,93,0.517,1.03
+"1628367","Josh Jackson","1610612765","Detroit Pistons",707,296,669,231,0.473,0.95
+"1628372","Dennis Smith Jr.","1610612765","Detroit Pistons",135,56,131,57,0.485,0.97
+"1628402","Frank Jackson","1610612765","Detroit Pistons",293,134,329,183,0.561,1.12
+"1628977","Hamidou Diallo","1610612765","Detroit Pistons",173,81,178,48,0.514,1.03
+"1629004","Svi Mykhailiuk","1610612765","Detroit Pistons",223,84,225,171,0.504,1.01
+"1629076","Tyler Cook","1610612765","Detroit Pistons",100,68,137,3,0.685,1.37
+"1629635","Sekou Doumbouya","1610612765","Detroit Pistons",282,107,240,78,0.426,0.85
+"1629686","Deividas Sirvydis","1610612765","Detroit Pistons",40,14,38,30,0.475,0.95
+"1630165","Killian Hayes","1610612765","Detroit Pistons",201,71,162,60,0.403,0.81
+"1630180","Saddiq Bey","1610612765","Detroit Pistons",691,279,732,522,0.530,1.06
+"1630191","Isaiah Stewart","1610612765","Detroit Pistons",409,226,473,63,0.578,1.16
+"1630240","Saben Lee","1610612765","Detroit Pistons",210,99,206,24,0.490,0.98
+"201565","Derrick Rose","1610612765","Detroit Pistons",184,79,171,39,0.465,0.93
+"201933","Blake Griffin","1610612765","Detroit Pistons",222,81,201,117,0.453,0.91
+"201961","Wayne Ellington","1610612765","Detroit Pistons",338,149,414,348,0.612,1.22
+"202709","Cory Joseph","1610612765","Detroit Pistons",176,89,192,42,0.545,1.09
+"203486","Mason Plumlee","1610612765","Detroit Pistons",381,234,468,0,0.614,1.23
+"203585","Rodney McGruder","1610612765","Detroit Pistons",70,37,85,33,0.607,1.21
+"203924","Jerami Grant","1610612765","Detroit Pistons",932,400,915,345,0.491,0.98
+"1626179","Terry Rozier","1610612766","Charlotte Hornets",1134,510,1242,666,0.548,1.10
+"1628370","Malik Monk","1610612766","Charlotte Hornets",399,173,431,255,0.540,1.08
+"1628970","Miles Bridges","1610612766","Charlotte Hornets",622,313,742,348,0.596,1.19
+"1628984","Devonte' Graham","1610612766","Charlotte Hornets",669,252,683,537,0.510,1.02
+"1628997","Caleb Martin","1610612766","Charlotte Hornets",256,96,223,93,0.436,0.87
+"1628998","Cody Martin","1610612766","Charlotte Hornets",188,83,182,48,0.484,0.97
+"1629023","P.J. Washington","1610612766","Charlotte Hornets",686,302,716,336,0.522,1.04
+"1629667","Jalen McDaniels","1610612766","Charlotte Hornets",284,133,301,105,0.530,1.06
+"1630163","LaMelo Ball","1610612766","Charlotte Hornets",672,293,678,276,0.504,1.01
+"1630176","Vernon Carey Jr.","1610612766","Charlotte Hornets",36,18,37,3,0.514,1.03
+"1630203","Grant Riller","1610612766","Charlotte Hornets",12,8,18,6,0.750,1.50
+"1630208","Nick Richards","1610612766","Charlotte Hornets",9,4,8,0,0.444,0.89
+"1630268","Nate Darling","1610612766","Charlotte Hornets",7,2,6,6,0.429,0.86
+"202330","Gordon Hayward","1610612766","Charlotte Hornets",658,311,707,255,0.537,1.07
+"202687","Bismack Biyombo","1610612766","Charlotte Hornets",242,142,284,0,0.587,1.17
+"202954","Brad Wanamaker","1610612766","Charlotte Hornets",126,54,111,9,0.440,0.88
+"203469","Cody Zeller","1610612766","Charlotte Hornets",324,181,366,12,0.565,1.13
