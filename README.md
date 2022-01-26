@@ -10,4 +10,4 @@
 
 * [O dashboard pode ser acessado no seguinte link](https://public.tableau.com/app/profile/eduardo.maass/viz/NBAEfficiency2020-2021/Dashboard-NBAEfficiency2020-2021?publish=yes)
 
-![](Dashboard - NBA Efficiency 2020-2021.png)
+![](https://github.com/eduardomaass/NBA-Shots-2020-2021/blob/a3aa853c08021f797413b9eea9a16a26aaf2c661/Dashboard%20-%20NBA%20Efficiency%202020-2021.png)
