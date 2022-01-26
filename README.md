@@ -8,6 +8,6 @@
 
 * Os logos dos times funcionam como botões de filtro, basta clicar em cima de um deles e o dashboard reorganizará os dados de forma a mostrar somente os jogadores do time.
 
-* O dashboard pode ser acessado no seguinte link(https://public.tableau.com/app/profile/eduardo.maass/viz/NBAEfficiency2020-2021/Dashboard-NBAEfficiency2020-2021?publish=yes)
+* [O dashboard pode ser acessado no seguinte link](https://public.tableau.com/app/profile/eduardo.maass/viz/NBAEfficiency2020-2021/Dashboard-NBAEfficiency2020-2021?publish=yes)
 
 ![](/Dashboard - NBA Efficiency 2020-2021.png)
